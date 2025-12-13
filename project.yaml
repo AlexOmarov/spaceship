@@ -1,0 +1,5 @@
+# project.yaml
+# This file marks the root of the Amper project.
+modules:
+  - api
+  - app

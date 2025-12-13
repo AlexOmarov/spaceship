@@ -1,0 +1,6 @@
+# app/module.yaml
+product: jvm/app
+
+dependencies:
+  - ../api
+
