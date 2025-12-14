@@ -1,2 +1,9 @@
 # api/module.yaml
 product: jvm/lib
+settings:
+  kotlin:
+    languageVersion: 2.3
+  jvm:
+    jdk:
+      version: 24  # major JDK version
+      distributions: [temurin]  # optional allowlist of distributions (accept all if omitted)

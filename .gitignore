@@ -10,3 +10,5 @@ vendor/
 dist/
 build/
 *.log
+.idea/
+.agent
