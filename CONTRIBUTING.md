@@ -5,7 +5,7 @@ Upon completion of the work on the task, an MR must be created targeting the `ma
 Each MR must:
 
 - have the prefix `<QUEUE_CODE>-<TICKET_NUMBER>` in the title;
-- contain a brief description of what was done;
+- contain a brief description of what was done in form of a todo list;
 - pass the pipeline.
 
 After this, it can be sent for review. Before merging into `main`, at least 1 approval is required.
