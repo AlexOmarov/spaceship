@@ -9,5 +9,5 @@ settings:
     languageVersion: 2.3
   jvm:
     jdk:
-      version: 25  # major JDK version
-      distributions: [liberica]  # optional allowlist of distributions (accept all if omitted)
+      version: 24  # major JDK version (LTS)
+      distributions: [temurin]  # optional allowlist of distributions (accept all if omitted)
